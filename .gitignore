@@ -1,0 +1,69 @@
+# ================================
+# Python
+# ================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+*.log
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# ================================
+# PyCharm / IntelliJ
+# ================================
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# ================================
+# Jupyter / IPython
+# ================================
+.ipynb_checkpoints/
+.profile_default/
+.ipython/
+
+# ================================
+# macOS
+# ================================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ================================
+# VS Code (por si acaso)
+# ================================
+.vscode/
+
+# ================================
+# Obsidian (opcional)
+# ================================
+.obsidian/
+.trash/
+
+# ================================
+# Temporary / misc
+# ================================
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+
+# ================================
+# Secrets (por si luego agregas labs)
+# ================================
+.env
+.env.*
+secrets.*
