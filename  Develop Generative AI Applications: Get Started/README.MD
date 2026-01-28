@@ -9,9 +9,9 @@ Este espacio está diseñado como una base de conocimiento personal, organizada 
 
 ## 📚 Course Modules
 
-- [Module 1: Foundations of Generative AI and Prompt Engineering](./Module 1/README.md)
-- [Module 2: Introduction to LangChain in GenAI Applications](./Module 2/README.md)
-- [Module 3: Build a Generative AI Application with LangChain](./Module 3/README.md)
+- [Module 1: Foundations of Generative AI and Prompt Engineering](Module 1/README.md)
+- [Module 2: Introduction to LangChain in GenAI Applications](Module 2/README.md)
+- [Module 3: Build a Generative AI Application with LangChain](Module 3/README.md)
 
 ---
 

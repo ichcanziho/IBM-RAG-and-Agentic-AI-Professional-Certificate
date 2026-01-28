@@ -8,7 +8,7 @@ Su objetivo es proporcionar una visión clara del programa, sus alcances, la est
 
 ## 📚 Clases
 
-- [1. Course Introduction](./1%20Course%20Introduction/README.md)
+- [1. Course Introduction](1 Course Introduction/README.md)
 - [2. RAG and Agentic AI Professional Certificate Overview](./2%20RAG%20and%20Agentic%20AI%20Professional%20Certificate%20Overview/README.md)
 - [3. Course Overview](./3%20Course%20Overview/README.md)
 - [4. Reading: Helpful Tips for Course Completion](./4%20Reading:%20Helpful%20Tips%20for%20Course%20Completion/README.md)
